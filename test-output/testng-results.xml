@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="576" started-at="2017-07-20T18:32:00Z" finished-at="2017-07-20T18:32:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="576" started-at="2017-07-20T18:32:00Z" finished-at="2017-07-20T18:32:00Z">
+      <class name="com.fanniemae.testcases.DummyTC">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fanniemae.testcases.DummyTC@91161c7]" test-instance-name="" name="setUp" is-config="true" duration-ms="8133" started-at="2017-07-20T14:31:52Z" finished-at="2017-07-20T14:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tc_LoginTestCase()[pri:0, instance:com.fanniemae.testcases.DummyTC@91161c7]" test-instance-name="" name="tc_LoginTestCase" duration-ms="565" started-at="2017-07-20T14:32:00Z" finished-at="2017-07-20T14:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_LoginTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fanniemae.testcases.DummyTC@91161c7]" test-instance-name="" name="tearDown" is-config="true" duration-ms="527" started-at="2017-07-20T14:32:00Z" finished-at="2017-07-20T14:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fanniemae.testcases.DummyTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
