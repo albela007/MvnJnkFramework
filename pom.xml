@@ -7,7 +7,7 @@
 
 
 	<properties>
-		<suiteXmlFile>src/test/resources/runners/testng.xml</suiteXmlFile>
+		<suiteXmlFile>testng.xml</suiteXmlFile>
 
 	</properties>
 
